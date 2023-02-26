@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MyFirstRestAPI", "MyFirstRestAPI\MyFirstRestAPI.njsproj", "{C7E0DA32-CEDF-41B0-ACBD-560A2E9E9280}"
 EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "testreactappclientside", "TestReactAppClientSide\testreactappclientside.esproj", "{7286C1C3-0667-4658-B12C-F94FC38B6F06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{C7E0DA32-CEDF-41B0-ACBD-560A2E9E9280}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7E0DA32-CEDF-41B0-ACBD-560A2E9E9280}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7E0DA32-CEDF-41B0-ACBD-560A2E9E9280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7286C1C3-0667-4658-B12C-F94FC38B6F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7286C1C3-0667-4658-B12C-F94FC38B6F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7286C1C3-0667-4658-B12C-F94FC38B6F06}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7286C1C3-0667-4658-B12C-F94FC38B6F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7286C1C3-0667-4658-B12C-F94FC38B6F06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7286C1C3-0667-4658-B12C-F94FC38B6F06}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
